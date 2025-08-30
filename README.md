@@ -83,7 +83,7 @@ The dataset contains transactional and vendor-level sales and purchase data, inc
 ---
 
 ## 8. Screenshot / Demo  
-  - Show What the dashbord looks like : ()
+  - Show What the dashbord looks like : ( https://github.com/Sourav-Das24/Vendor-Performance-Analysis/blob/main/Vendor-Performence-Dashboard-img.png )
 
 ---
 
